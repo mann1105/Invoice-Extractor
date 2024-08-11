@@ -34,10 +34,8 @@
     <li><code>langchain</code></li>
     <li><code>langchain-community</code></li>
     <li><code>langchain-google-genai</code></li>
-    <li><code>chromadb</code></li>
     <li><code>sentence-transformers</code></li>
     <li><code>pypdf</code></li>
-    <li><code>pandas</code></li>
     <li><code>streamlit</code></li>
 </ul>
 
@@ -54,6 +52,9 @@
     </li>
     <li><strong>Clear Files:</strong> Click the "Clear Files" button to reset the app and upload new files.</li>
 </ol>
+
+<h2>Demo Video</h2>
+<li><a href="https://drive.google.com/file/d/1VvoKNwKQbGE7pq329yjCkbA2xF6h8NKH/view?usp=sharing">Pdf to JSON extractor</a></li>
 
 </body>
 </html>
