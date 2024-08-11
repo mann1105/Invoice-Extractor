@@ -53,8 +53,8 @@
     <li><strong>Clear Files:</strong> Click the "Clear Files" button to reset the app and upload new files.</li>
 </ol>
 
-<h2>Demo Video</h2>
+<h2>More about this</h2>
 <li><a href="https://drive.google.com/file/d/1VvoKNwKQbGE7pq329yjCkbA2xF6h8NKH/view?usp=sharing">Pdf to JSON extractor</a></li>
-
+<li><a href="https://medium.com/@manpatel.tech/invoice-extraction-challenges-why-ocr-free-donut-models-miss-the-mark-ea0e1dd0a035">Blog</a></li>
 </body>
 </html>
